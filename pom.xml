@@ -78,6 +78,8 @@
     <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
     <maven-surefire-plugin.version>3.2.5</maven-surefire-plugin.version>
     <scott-data-hsqldb.version>0.2</scott-data-hsqldb.version>
+    <checkstyle.version>9.3</checkstyle.version>
+    <hsqldb.version>2.5.2</hsqldb.version>
 
     <maven-javadoc-plugin.additionalOptions>-html5</maven-javadoc-plugin.additionalOptions>
     <maven-javadoc-plugin.link>https://docs.oracle.com/en/java/javase/17/docs/api/</maven-javadoc-plugin.link>
