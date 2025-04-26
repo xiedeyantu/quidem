@@ -81,6 +81,8 @@
 
     <maven-javadoc-plugin.additionalOptions>-html5</maven-javadoc-plugin.additionalOptions>
     <maven-javadoc-plugin.link>https://docs.oracle.com/en/java/javase/17/docs/api/</maven-javadoc-plugin.link>
+    <checkstyle.version>9.3</checkstyle.version>
+    <hsqldb.version>2.5.2</hsqldb.version>
   </properties>
 
   <!-- Environment settings. -->
